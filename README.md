@@ -4,7 +4,7 @@
 지금은 Full-Stack Developer로 DND Lab에서 일 하고 있습니다 👨‍💻  
 주로 회사에서 다루는 언어는 PHP, React, Vue 이고, 취미로는 React, Golang과 Docker 관련해서 공부를 하고 있습니다
 
-<a href="https://opgc.me/#/users/jaehong-hwang" target="_blank"><img src="https://api.opgc.me/githubs/users/jaehong-hwang/tag/?border=normal" /></a>
+<a href="https://opgc.me/#/users/jaehong-hwang" target="_blank"><img src="https://api.opgc.me/githubs/users/jaehong-hwang/tag/?theme=basic" /></a>
 
 ### 지금 공부하는건 📖
 
