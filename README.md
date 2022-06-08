@@ -1,11 +1,12 @@
 ### 안녕하세요 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaehong-hwang%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![GitHub followers](https://img.shields.io/github/followers/jaehong-hwang)
 
 저는 97년생 한국인 🇰🇷 개발자 황재홍 입니다 🙇‍♂️  
 지금은 Full-Stack Developer로 DND Lab에서 일 하고 있습니다 👨‍💻  
 주로 회사에서 다루는 언어는 PHP, React, Vue 이고, 취미로는 React, Golang과 Docker 관련해서 공부를 하고 있습니다
 
-<a href="https://opgc.me/#/users/jaehong-hwang" target="_blank"><img src="https://api.opgc.me/githubs/users/jaehong-hwang/tag/?theme=basic" /></a>
+![jaehong-hwang's github stats](https://github-readme-stats.vercel.app/api?username=jaehong-hwang&show_icons=true)
 
 ### 지금 공부하는건 📖
 
