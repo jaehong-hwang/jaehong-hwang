@@ -18,3 +18,4 @@
 ### 최근 활동 🔥
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
