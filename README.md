@@ -15,7 +15,7 @@
 - 사내에서 진행하는 코드리뷰로 여러 사람의 코드를 보며 깔끔하고 확장 가능한 코드 작성을 목표로 일하고 있습니다
 
 ## 블로그 ✏️
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=krusnocide)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=krusnocide)](https://velog.io/@krusnocide)
 
 ## 기술 스택 🛠
 ![Go](https://img.shields.io/badge/Go-947)
