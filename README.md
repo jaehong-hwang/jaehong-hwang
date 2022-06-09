@@ -1,4 +1,4 @@
-### 안녕하세요 👋
+## 안녕하세요 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaehong-hwang%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub followers](https://img.shields.io/github/followers/jaehong-hwang)
 
@@ -8,7 +8,7 @@
 
 ![jaehong-hwang's github stats](https://github-readme-stats.vercel.app/api?username=jaehong-hwang&show_icons=true)
 
-### 지금 공부하는건 📖
+## 지금 공부하는건 📖
 - CLI 프로그램에 관심을 가져 Golang과 Rust로 사이드 프로젝트를 진행해보고 있습니다
 - React + Typescript를 통해 깔끔한 코드의 웹 사이트를 만들도록 노력하고 있습니다
 - Docker Orchestration를 너무너무 해보고 싶어서 Kubernetes를 깔아 기초 세팅은 해봤지만.. 아직 Docker-compose 밖에 잘 못써봤습니다
@@ -17,7 +17,7 @@
 ## 블로그 ✏️
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=krusnocide)](https://github.com/eungyeole/velog-readme-stats)
 
-### 기술 스택 🛠
+## 기술 스택 🛠
 ![Go](https://img.shields.io/badge/Go-947)
 ![PHP](https://img.shields.io/badge/PHP-333)
 ![javascript](https://img.shields.io/badge/Javascript-333)
@@ -28,8 +28,7 @@
 ![HTML](https://img.shields.io/badge/HTML-23857f)
 ![CSS](https://img.shields.io/badge/CSS-23857f)
 
-### 최근 활동 🔥
-
+## 최근 활동 🔥
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#93](https://github.com/jaehong-hwang/.todo/issues/93) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
 2. 🎉 Merged PR [#102](https://github.com/jaehong-hwang/.todo/pull/102) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
