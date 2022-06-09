@@ -18,9 +18,9 @@
 ### 최근 활동 🔥
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#102](https://github.com/jaehong-hwang/.todo/pull/102) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
-2. 💪 Opened PR [#102](https://github.com/jaehong-hwang/.todo/pull/102) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
-3. 🎉 Merged PR [#101](https://github.com/jaehong-hwang/.todo/pull/101) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
-4. 💪 Opened PR [#101](https://github.com/jaehong-hwang/.todo/pull/101) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
-5. ❗️ Closed issue [#94](https://github.com/jaehong-hwang/.todo/issues/94) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
+1. 🗣 Commented on [#93](https://github.com/jaehong-hwang/.todo/issues/93) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
+2. 🎉 Merged PR [#102](https://github.com/jaehong-hwang/.todo/pull/102) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
+3. 💪 Opened PR [#102](https://github.com/jaehong-hwang/.todo/pull/102) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
+4. 🎉 Merged PR [#101](https://github.com/jaehong-hwang/.todo/pull/101) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
+5. 💪 Opened PR [#101](https://github.com/jaehong-hwang/.todo/pull/101) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
 <!--END_SECTION:activity-->
