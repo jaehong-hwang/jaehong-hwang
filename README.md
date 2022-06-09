@@ -15,6 +15,17 @@
 - Docker Orchestration를 너무너무 해보고 싶어서 Kubernetes를 깔아 기초 세팅은 해봤지만.. 아직 Docker-compose 밖에 잘 못써봤습니다
 - 사내에서 진행하는 코드리뷰로 여러 사람의 코드를 보며 깔끔하고 확장 가능한 코드 작성을 목표로 일하고 있습니다
 
+### 기술 스택 🛠
+![Go](https://img.shields.io/badge/Go-947)
+![PHP](https://img.shields.io/badge/PHP-333)
+![javascript](https://img.shields.io/badge/Javascript-333)
+![typescript](https://img.shields.io/badge/Typescript-333)
+![React](https://img.shields.io/badge/React-4fc08d)
+![Vuejs](https://img.shields.io/badge/Vuejs-4fc08d)
+![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
+![HTML](https://img.shields.io/badge/HTML-23857f)
+![CSS](https://img.shields.io/badge/CSS-23857f)
+
 ### 최근 활동 🔥
 
 <!--START_SECTION:activity-->
