@@ -30,9 +30,9 @@
 
 ## 최근 활동 🔥
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#38](https://github.com/jaehong-hwang/.todo-app/issues/38) in [jaehong-hwang/.todo-app](https://github.com/jaehong-hwang/.todo-app)
-2. 🗣 Commented on [#93](https://github.com/jaehong-hwang/.todo/issues/93) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
-3. 🎉 Merged PR [#102](https://github.com/jaehong-hwang/.todo/pull/102) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
-4. 💪 Opened PR [#102](https://github.com/jaehong-hwang/.todo/pull/102) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
-5. 🎉 Merged PR [#101](https://github.com/jaehong-hwang/.todo/pull/101) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
+1. ❗️ Opened issue [#1907](https://github.com/mantinedev/mantine/issues/1907) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
+2. ❗️ Opened issue [#38](https://github.com/jaehong-hwang/.todo-app/issues/38) in [jaehong-hwang/.todo-app](https://github.com/jaehong-hwang/.todo-app)
+3. 🗣 Commented on [#93](https://github.com/jaehong-hwang/.todo/issues/93) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
+4. 🎉 Merged PR [#102](https://github.com/jaehong-hwang/.todo/pull/102) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
+5. 💪 Opened PR [#102](https://github.com/jaehong-hwang/.todo/pull/102) in [jaehong-hwang/.todo](https://github.com/jaehong-hwang/.todo)
 <!--END_SECTION:activity-->
