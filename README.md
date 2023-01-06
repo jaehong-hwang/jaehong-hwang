@@ -3,8 +3,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/jaehong-hwang)
 
 저는 97년생 한국인 🇰🇷 개발자 황재홍 입니다 🙇‍♂️  
-지금은 Full-Stack Developer로 DND Lab에서 일 하고 있습니다 👨‍💻  
-주로 회사에서 다루는 언어는 PHP, React, Vue 이고, 취미로는 React, Golang과 Docker 관련해서 공부를 하고 있습니다
+지금은 Full-Stack Developer로 주식회사 똑똑에서 일 하고 있습니다 👨‍💻  
+주로 회사에서 다루는 언어는 Node.JS, Vue 이고, 취미로는 React, Golang과 Docker 관련해서 공부를 하고 있습니다
 
 ![jaehong-hwang's github stats](https://github-readme-stats.vercel.app/api?username=jaehong-hwang&show_icons=true)
 
