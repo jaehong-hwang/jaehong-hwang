@@ -15,7 +15,7 @@
 - 이전에 사내에서 진행했던 코드리뷰의 경험을 살려 오픈소스의 코드들을 보며 깔끔하고 확장 가능한 코드 작성을 목표로 일하고 있습니다
 
 ## 블로그 ✏️
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=krusnocide)](https://velog.io/@krusnocide)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev-jaehong)](https://velog.io/@dev-jaehong)
 
 ## 기술 스택 🛠
 ![Go](https://img.shields.io/badge/Go-947)
